@@ -2,8 +2,8 @@
 # About The Project 
 - This project is about reading data from csv file,
 - inserting those data into a relational dabase,
-- reading data from multiple tables,an
-- The results will show numbers of people
+- reading data from multiple tables,
+- the results will show numbers of people
 - listed by region and departement.
 
 # Built With
