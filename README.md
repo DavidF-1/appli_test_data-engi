@@ -1,10 +1,10 @@
 # appli_test_data-engi
 About The Project 
-This project is about reading data from csv file,
-inserting those data into a relational dabase,
-reading data from multiple tables,an
-The results will show numbers of people
-listed by region and departement.
+- This project is about reading data from csv file,
+- inserting those data into a relational dabase,
+- reading data from multiple tables,an
+- The results will show numbers of people
+- listed by region and departement.
 
 Built With
 - Ubuntu 20.04.4 LTS
