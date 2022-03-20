@@ -1,0 +1,101 @@
+commune,departement,region
+Paris,Paris,Île-de-France
+Lyon,Rhône,Auvergne-Rhône-Alpes
+Marseille,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur
+Toulouse,Haute-Garonne,Occitanie
+Nice,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+Nantes,Loire-Atlantique,Pays de la Loire
+Strasbourg,Bas-Rhin,Grand Est
+Montpellier,Hérault,Occitanie
+Bordeaux,Gironde,Nouvelle-Aquitaine
+Lille,Nord,Hauts-de-France
+Rennes,Ille-et-Vilaine,Bretagne
+Reims,Marne,Grand Est
+Le Havre,Seine-Maritime,Normandie
+Saint-Étienne,Loire,Auvergne-Rhône-Alpes
+Toulon,Var,Provence-Alpes-Côte d'Azur
+Grenoble,Isère,Auvergne-Rhône-Alpes
+Dijon,Côte-d'Or,Bourgogne-Franche-Comté
+Angers,Maine-et-Loire,Pays de la Loire
+Saint-Denis,La Réunion,La Réunion
+Le Mans,Sarthe,Pays de la Loire
+Aix-en-Provence,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur
+Brest,Finistère,Bretagne
+Villeurbanne,Rhône,Auvergne-Rhône-Alpes
+Nîmes,Gard,Occitanie
+Limoges,Haute-Vienne,Nouvelle-Aquitaine
+Clermont-Ferrand,Puy-de-Dôme,Auvergne-Rhône-Alpes
+Tours,Indre-et-Loire,Centre-Val de Loire
+Amiens,Somme,Hauts-de-France
+Metz,Moselle,Grand Est
+Besançon,Doubs,Bourgogne-Franche-Comté
+Perpignan,Pyrénées-Orientales,Occitanie
+Orléans,Loiret,Centre-Val de Loire
+Boulogne-Billancourt,Hauts-de-Seine,Île-de-France
+Mulhouse,Haut-Rhin,Grand Est
+Caen,Calvados,Normandie
+Rouen,Seine-Maritime,Normandie
+Nancy,Meurthe-et-Moselle,Grand Est
+Saint-Denis,Seine-Saint-Denis,Île-de-France
+Saint-Paul,La Réunion,La Réunion
+Argenteuil,Val-d'Oise,Île-de-France
+Montreuil,Seine-Saint-Denis,Île-de-France
+Roubaix,Nord,Hauts-de-France
+Dunkerque,Nord,Hauts-de-France
+Tourcoing,Nord,Hauts-de-France
+Avignon,Vaucluse,Provence-Alpes-Côte d'Azur
+Nanterre,Hauts-de-Seine,Île-de-France
+Poitiers,Vienne,Nouvelle-Aquitaine
+Créteil,Val-de-Marne,Île-de-France
+Fort-de-France,Martinique,Martinique
+Versailles,Yvelines,Île-de-France
+Courbevoie,Hauts-de-Seine,Île-de-France
+Vitry-sur-Seine,Val-de-Marne,Île-de-France
+Pau,Pyrénées-Atlantiques,Nouvelle-Aquitaine
+Colombes,Hauts-de-Seine,Île-de-France
+Aulnay-sous-Bois,Seine-Saint-Denis,Île-de-France
+Asnières-sur-Seine,Hauts-de-Seine,Île-de-France
+Saint-Pierre,La Réunion,La Réunion
+Rueil-Malmaison,Hauts-de-Seine,Île-de-France
+Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+Rochelle,Charente-Maritime,Nouvelle-Aquitaine
+Saint-Maur-des-Fossés,Val-de-Marne,Île-de-France
+Champigny-sur-Marne,Val-de-Marne,Île-de-France
+Calais,Pas-de-Calais,Hauts-de-France
+Aubervilliers,Seine-Saint-Denis,Île-de-France
+Tampon,La Réunion,La Réunion
+Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+Béziers,Hérault,Occitanie
+Bourges,Cher,Centre-Val de Loire
+Saint-Nazaire,Loire-Atlantique,Pays de la Loire
+Colmar,Haut-Rhin,Grand Est
+Drancy,Seine-Saint-Denis,Île-de-France
+Mérignac,Gironde,Nouvelle-Aquitaine
+Valence,Drôme,Auvergne-Rhône-Alpes
+Quimper,Finistère,Bretagne
+Issy-les-Moulineaux,Hauts-de-Seine,Île-de-France
+Noisy-le-Grand,Seine-Saint-Denis,Île-de-France
+Levallois-Perret,Hauts-de-Seine,Île-de-France
+Villeneuve-d'Ascq,Nord,Hauts-de-France
+Troyes,Aube,Grand Est
+Antony,Hauts-de-Seine,Île-de-France
+Neuilly-sur-Seine,Hauts-de-Seine,Île-de-France
+Seyne-sur-Mer,Var,Provence-Alpes-Côte d'Azur
+Sarcelles,Val-d'Oise,Île-de-France
+Abymes,Guadeloupe,Guadeloupe
+Clichy,Hauts-de-Seine,Île-de-France
+Lorient,Morbihan,Bretagne
+Niort,Deux-Sèvres,Nouvelle-Aquitaine
+Pessac,Gironde,Nouvelle-Aquitaine
+Vénissieux,Rhône,Auvergne-Rhône-Alpes
+Mamoudzou,Mayotte,Mayotte
+Saint-Quentin,Aisne,Hauts-de-France
+Chambéry,Savoie,Auvergne-Rhône-Alpes
+Ivry-sur-Seine,Val-de-Marne,Île-de-France
+Cergy,Val-d'Oise,Île-de-France
+Montauban,Tarn-et-Garonne,Occitanie
+Cayenne,Guyane,Guyane
+Hyères,Var,Provence-Alpes-Côte d'Azur
+Beauvais,Oise,Hauts-de-France
+Cholet,Maine-et-Loire,Pays de la Loire
+Saint-André,La Réunion,La Réunion
