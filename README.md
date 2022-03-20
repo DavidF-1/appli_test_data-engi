@@ -17,14 +17,14 @@
 
 # Architecture Tree
 - ./appli_test_data-engi/
-	3 scripts to execute with python3 :
-	- create_db_schema.py
-	- data_ingest.py
-	- get_results.py
+	- 3 scripts to execute with python3 :
+		- create_db_schema.py
+		- data_ingest.py
+		- get_results.py
 - ./appli_test_data-engi/data
-	a directory containing 3 files:
-	- exemple_resultat.json, shows expecting format results
-	- lieux.csv, data source about "lieux"
-	- people.csv, data source about people
+	- a directory containing 3 files:
+		- exemple_resultat.json, shows expecting format results
+		- lieux.csv, data source about "lieux"
+		- people.csv, data source about people
 - ./appli_test_data-engi/results
-	a directory where json files containing results will be stored stamped with time in miliseconds# appli_test_data-engi
+	- a directory where json files containing results will be stored stamped with time in miliseconds
