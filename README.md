@@ -1,21 +1,21 @@
 # appli_test_data-engi
-About The Project 
+# About The Project 
 - This project is about reading data from csv file,
 - inserting those data into a relational dabase,
 - reading data from multiple tables,an
 - The results will show numbers of people
 - listed by region and departement.
 
-Built With
+# Built With
 - Ubuntu 20.04.4 LTS
 - MySQL Server Community Edition 8.0.28-0ubuntu0.20.04.3
 - Python 3.8.10 (default, Nov 26 2021, 20:14:08)
 
-Prerequisites
+# Prerequisites
 - sudo apt-get install mysql-server
 - pip3 install mysql-connector-python
 
-Architecture Tree
+# Architecture Tree
 - ./appli_test_data-engi/ : 
 	3 scripts to execute with python3 :
 	- create_db_schema.py
