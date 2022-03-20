@@ -21,10 +21,10 @@
 		- create_db_schema.py
 		- data_ingest.py
 		- get_results.py
-- ./appli_test_data-engi/data
+- ./appli_test_data-engi/data/
 	- a directory containing 3 files:
 		- exemple_resultat.json, shows expecting format results
 		- lieux.csv, data source about "lieux"
 		- people.csv, data source about people
-- ./appli_test_data-engi/results
+- ./appli_test_data-engi/results/
 	- a directory where json files containing results will be stored stamped with time in miliseconds
